@@ -1,0 +1,19 @@
+.container{
+	padding-left: 472px;
+	background-color:red;
+}
+
+.letter{
+  position: relative;
+  font-weight: 900;
+  font-size: 4.5em;
+}
+.letter .letters {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  top: 0.3em;
+  right: 0;
+  opacity: 0; 
+}
+
